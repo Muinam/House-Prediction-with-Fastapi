@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+fastapi
+uvicorn
+transformers
+torch
+sentencepiece
+accelerate
